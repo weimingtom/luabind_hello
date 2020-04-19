@@ -1,0 +1,6 @@
+https://www.rasterbar.com/products/luabind/docs.html
+
+
+https://sourceforge.net/projects/luabinaries/files/5.0.3/Docs%20and%20Sources/
+https://github.com/luabind/luabind/releases
+https://sourceforge.net/projects/boost/files/boost/1.34.1/
